@@ -228,7 +228,7 @@ profile
     margin: 100px 50px;
     padding: 50px;
 }
-.profile .content {
+.profile .content { 
     display: flex;
     text-align: left;
     justify-content: center;
