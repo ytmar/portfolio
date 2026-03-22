@@ -405,6 +405,7 @@ SP
         right: 0;
         width: 100%;
         display: block;
+        z-index: 100;
     }
     .profile,
     .works,
