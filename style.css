@@ -420,3 +420,7 @@ SP
         display: none;
     }
 }
+/**/
+html {
+  scroll-padding-top: 30px;
+}
