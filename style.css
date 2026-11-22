@@ -421,6 +421,15 @@ SP
     }
 }
 /**/
-html {
-  scroll-padding-top: 30px;
+.profile,
+.works,
+.skills {
+  scroll-margin-top: 50px;
+}
+@media screen and (max-width: 800px) {
+    .profile,
+    .works,
+    .skills {
+    scroll-margin-top: 100px;
+    }
 }
