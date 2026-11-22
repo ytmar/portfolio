@@ -426,4 +426,11 @@ SP
 #skills {
   scroll-margin-top: 50px!important;
 }
+@media screen and (max-width: 800px) {
+    #profile,
+    #works,
+    #skills {
+        scroll-margin-top: 150px!important;
+    }
+}
 
